@@ -61,9 +61,12 @@ In Flowstate's own words (Settings › About):
   Mac. No account, no cloud, no analytics.
 - About once a day, Flowstate reads a short list of versions from this page
   on GitHub. It downloads a new version only when you click **Install**
-  (or if you tick "Automatically download and install updates").
+  (or if you tick "Automatically download and install updates in the future").
 
 ## Found a problem?
 
-Open Flowstate and choose **Settings › About**. Send me the version and build
-shown there, and what happened.
+Open Flowstate and choose **Settings › About**, and note the version and
+build shown there. Then
+[open an issue](https://github.com/xyiencefiction/flowstate-releases/issues/new)
+on this page with those two numbers and what happened. You need a free GitHub
+account. Issues are public, so leave out anything private.
