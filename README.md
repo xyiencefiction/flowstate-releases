@@ -30,8 +30,8 @@ Click **Done** (not Move to Trash). Then:
 
    ![Privacy & Security: "Flowstate" was blocked, Open Anyway](images/02-open-anyway.png)
 
-3. Type your password (or use Touch ID).
-4. macOS asks once more whether to open Flowstate. Choose to open it.
+3. macOS asks once more: Open "Flowstate"? Click **Open Anyway**.
+4. Use Touch ID, or type your password.
 
 You do this once. Flowstate lives in the menu bar, as a small timer, and a
 short welcome shows you around.
