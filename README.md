@@ -52,7 +52,7 @@ stay where they are.
 
 ## Privacy
 
-In Flowstate's own words (Settings › About):
+In Flowstate's own words:
 
 > Your tasks, blocks and settings stay on this Mac. No account, no analytics.
 > Only the update check goes online: it reads a list of versions from GitHub.
