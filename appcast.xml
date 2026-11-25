@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Flowstate</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sat, 21 Nov 2026 11:25:47 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.2</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The first version of Flowstate: a timer in your menu bar that keeps one task in front of you.
+- Reserve a block of time, run focus intervals inside it, and watch the time left as liquid.
+- Press Control–Space in any app to open it; a short welcome shows you around.
+]]></description>
+            <enclosure url="https://github.com/xyiencefiction/flowstate-releases/releases/download/v0.1/Flowstate-0.1.dmg" length="6419347" type="application/octet-stream" sparkle:edSignature="iYpIwFEvxHxEaJaxZz67Bi2X3xQ+Wa2C5SJTMwkRiaDx3LY6HjqBaMivV82kJ8WZDOsDvxPeIRYUr3eN5A8QCg=="/>
+        </item>
+    </channel>
+</rss>
